@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/SantiMartinezG/runee-backend.git
+[submodule "runee-frontend"]
+	path = runee-frontend
+	url = https://github.com/SantiMartinezG/runee-frontend
